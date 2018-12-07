@@ -7,6 +7,8 @@ Please Run the Spring Boot application from `com.cox.vauto.VautoApplication` Cla
  2. If you want to see the Raw Data being Submitted Please Hit this URL 
         `http://localhost:9090/answer/`
  
+ `Documentation Swagger : http://localhost:9090/swagger-ui.html`
+ 
  *Average Running Time `08.2 Sec.`* 
  
  **`Author : Yonatan 12-07-2018`**
